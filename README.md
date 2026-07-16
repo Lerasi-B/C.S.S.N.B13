@@ -263,13 +263,13 @@
 </tr>
 </table>
 
-<h1>Total monthly dues from Jan to July: 76,000</h1>
+<h1 class="red-heading">Total monthly dues from Jan to July: 76,000</h1>
     
 
     
         <p>Community Secondary School Nweol batch 2013 is the most coordinated batch in the world</p>
 		<footer>
-        <i><a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH13/" class="payment-link">Click here to checkthe full account report of the year</i>
-		</footer>	
+        <u><a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH13/" class="payment-link">Click here to checkthe full account report of the year.
+		
    
 

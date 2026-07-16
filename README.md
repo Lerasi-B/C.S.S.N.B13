@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -256,6 +256,8 @@
                  	<td>13,000</td>
                     <td>7,000</td>
 		    		<td>2,000</td>
+					</tr>
+					</table>
 
 
 <h1>Total monthly dues from Jan to July: 76,000</h1>
